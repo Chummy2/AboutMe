@@ -25,4 +25,4 @@ Do fewer things. Do them better. **Know why you're doing them**
 
 ## Persons of Interest
 
-[Abraham Lincoln][1]
+[Elon Musk][1]
