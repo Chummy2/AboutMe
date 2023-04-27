@@ -9,3 +9,14 @@ Hobbies
 
 + Chess
 + video games
+
+## My Motto
+
+*If it isnt broke dont fix it*
+
+## Favorite Quotes
+Do fewer things. Do them better. **Know why you're doing them**
+
+## My Favorite Websites
+
+[Youtube](https://www.youtube.com/)
