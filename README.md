@@ -6,3 +6,6 @@ My name is Blake Brucken and im a high school student at Mount Vernon Jr High. M
 
 Hobbies
 -
+
++ Chess
++ video games
