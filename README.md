@@ -26,3 +26,4 @@ Do fewer things. Do them better. **Know why you're doing them**
 ## Persons of Interest
 
 [Elon Musk][1]
+![Abraham Lincoln](C:\Users\Clone Troopers\Documents\AboutMe\img\Abraham_Lincoln_O-77_matte_collodion_print.jpg)
