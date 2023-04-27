@@ -33,7 +33,7 @@ Do fewer things. Do them better. **Know why you're doing them**
 </kbd>
 
 ## Favorite Terms
-| Terms |
-|:-|
-| Bruh |
-| sup |
+| Terms | Definitions
+|:-|:----:|
+| Bruh | a male friend (often used as a form of address). |
+| sup | A greeting |
