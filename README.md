@@ -31,3 +31,9 @@ Do fewer things. Do them better. **Know why you're doing them**
 <kbd>
 <img src="https://github.com/Chummy2/AboutMe/blob/main/img/Abraham_Lincoln_O-77_matte_collodion_print.jpg" height="500px" width="500px">
 </kbd>
+
+## Favorite Terms
+| Terms |
+|:-|
+| Bruh |
+| sup |
